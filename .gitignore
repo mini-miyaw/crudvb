@@ -1,0 +1,12 @@
+﻿# .gitignore file lists all files/folders not
+# to be tracked by git
+
+# folders
+.vs/
+bin/
+obj/
+
+# temporary files
+*.log
+*.tmp
+*.cache
